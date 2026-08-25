@@ -133,7 +133,7 @@ With that being said, feel free to explore the repositories or other deliverable
         </tr>
         <tr>
             <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560107">Human Computer Interaction</a></td>
-            <td><a href="./assets/hci/index.md">MoneyBrew</a></td>
+            <td><a href="./assets/hci/">MoneyBrew</a></td>
         </tr>
         <tr>
             <td><a href="https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=560108">Database and Web Applications Laboratory</a></td>
