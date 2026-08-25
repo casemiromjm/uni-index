@@ -22,7 +22,7 @@ title: Uni Index
 description: >- # this means to ignore newlines until "baseurl:"
   An index with all the courses I had during Informatics and Computing Engineering at FEUP
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://casemiromjm.me" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  casemiromjm
 
 # Build settings
