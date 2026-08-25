@@ -27,8 +27,10 @@ github_username:  casemiromjm
 
 # Build settings
 theme: jekyll-theme-primer
+remote-theme: pages-theme/primer@v0.6.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
